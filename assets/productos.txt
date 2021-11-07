@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Producto Prueba 392",
+    "price": 10888,
+    "thumbnail": "codehouse.com/images/gonzalo-andrade.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Producto Prueba 329",
+    "price": 10988,
+    "thumbnail": "codehouse.com/images/gonzalo-andrade.jpg"
+  }
+]
